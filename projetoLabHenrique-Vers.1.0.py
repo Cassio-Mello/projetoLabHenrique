@@ -1,7 +1,9 @@
 
 
 #criando variaveis e coletando informações
+data = input("Data:")
 nomeAmostra = input("Informe nome da amostra:")
+nomeFornencedor = input("Informe nome da amostra:")
 qtdTotal = float(input('Valor total:'))
 qtdResiduo = float(input('Valor residuo (g):'))
 qtdArdido = float(input('Valor ardido (g):'))
